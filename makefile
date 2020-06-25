@@ -1,2 +1,2 @@
-tyler:
+tyler🤠:
 	go run main.go
